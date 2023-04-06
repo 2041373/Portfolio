@@ -6,6 +6,7 @@ import Projects from './pages/Projects';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import About from './pages/About';
+import ContactForm from './pages/ContactForm';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
             <Route path='/projects' element={<Projects />} /> 
 
           </Routes>
+          <ContactForm/>
           <Footer/> 
       </Router>
 

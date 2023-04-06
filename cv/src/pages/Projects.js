@@ -19,7 +19,7 @@ function Projects() {
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            Sample Computer Science Project
+             Computer Science Project
           </Typography>
           <Typography variant="body2" color="text.secondary">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut
@@ -40,7 +40,7 @@ function Projects() {
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            Sample Computer Science Project
+             Computer Science Project
           </Typography>
           <Typography variant="body2" color="text.secondary">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut
@@ -61,7 +61,7 @@ function Projects() {
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            Sample Computer Science Project
+             Computer Science Project
           </Typography>
           <Typography variant="body2" color="text.secondary">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut
