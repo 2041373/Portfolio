@@ -1,0 +1,27 @@
+.about-container {
+    height: calc(100vh - 64px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1356d;
+    padding: 2rem;
+  }
+  
+  .about-content {
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .about-title {
+    font-size: 5rem;
+    margin-bottom: 0.5rem;
+    color: peachpuff;
+  }
+  
+  .about-subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    color: peachpuff;
+  }
+  
