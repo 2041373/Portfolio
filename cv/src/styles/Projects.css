@@ -1,0 +1,27 @@
+.Card {
+    margin: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .CardMedia {
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+  }
+  
+  .CardContent {
+    padding: 1rem;
+  }
+  
+  .CardContent h5 {
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .CardContent p {
+    font-size: 1rem;
+    color: #666;
+  }
+
+ 
